@@ -10,6 +10,7 @@ payload:
   - DST-PORT,21301
   - DST-PORT,21302
   - DST-PORT,5228
+  - DOMAIN,edge.lkus.site,DIRECT
 
 # Epicgames
   - DOMAIN-SUFFIX,ol.epicgames.com
