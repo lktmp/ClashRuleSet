@@ -1,6 +1,6 @@
 payload:
-# 直连列表
-
+# Special List
+  - DOMAIN,edge.lkus.site,DIRECT
 # MyList
   - DOMAIN-SUFFIX,13th.tech
   - DOMAIN-SUFFIX,423down.com
