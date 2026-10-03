@@ -6,7 +6,7 @@ payload:
   - DOMAIN-KEYWORD,svipsvip
   - DOMAIN-KEYWORD,7bbffvip
   - DOMAIN,edge.lkus.site
-  - DOMAIN-KEYWORD,bestcf,DIRECT
+  - DOMAIN-KEYWORD,bestcf
 
 # Epicgames
   - DOMAIN-SUFFIX,ol.epicgames.com
