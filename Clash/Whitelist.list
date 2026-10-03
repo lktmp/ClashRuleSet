@@ -5,11 +5,6 @@ payload:
   - DOMAIN-KEYWORD,7ffzy
   - DOMAIN-KEYWORD,svipsvip
   - DOMAIN-KEYWORD,7bbffvip
-  - DST-PORT,11301
-  - DST-PORT,11302
-  - DST-PORT,21301
-  - DST-PORT,21302
-  - DST-PORT,5228
   - DOMAIN,edge.lkus.site,DIRECT
 
 # Epicgames
